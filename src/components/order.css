@@ -1,0 +1,9 @@
+.orderBox {
+    display: flex;
+    text-align: right;
+    padding: 30px;
+}
+
+.orderBox p {
+    margin-top: 28px;
+}
